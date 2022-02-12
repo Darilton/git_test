@@ -1,1 +1,2 @@
-Learning some git basics.
+Learning some git basics.git config --global core.editor "code --wait"
+Using VScode for commit messages.
